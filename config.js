@@ -6,20 +6,20 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '94741558775', process.env.OWNER_NAME || 'Developer Lion_Man_yt 🤖', true],
+  ['94741558775', 'Lion_man_Yt Techie ❤️✨', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || 'Lion man The Techie'
+global.botname = process.env.BOT_NAME || 'lion-BOT'
 global.oname = author
 global.bname = botname
 
 //Extra Shortcuts
-global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/shizo_the_techie'
-global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/JnBffMgpiCgBAra3GQC9rW'
+global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://youtube.com/@lion_man_yt?si=lZpyG0ZA0SvgirOE'
+global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/IoHWntzEkH5GZQ6Jb5i8ub'
  
 //Apikeys
 global.shizokeys = 'shizo'
